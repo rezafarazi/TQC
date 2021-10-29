@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#a349a4</item>
+        <item name="colorPrimaryDark">#a349a4</item>
+        <item name="colorAccent">#a349a4</item>
+        <item name="android:navigationBarColor">#a349a4</item>
+    </style>
+
+
+    <style name="Man_Ac" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ff7f27</item>
+        <item name="colorPrimaryDark">#ff7f27</item>
+        <item name="colorAccent">#ff7f27</item>
+        <item name="android:navigationBarColor">#ff7f27</item>
+    </style>
+
+    <style name="jvb_dg" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ff7f27</item>
+        <item name="colorPrimaryDark">#ff7f27</item>
+        <item name="colorAccent">#ff7f27</item>
+        <item name="android:navigationBarColor">#ff7f27</item>
+    </style>
+
+
+
+    <style name="s_dg" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#a349a4</item>
+        <item name="colorPrimaryDark">#a349a4</item>
+        <item name="colorAccent">#a349a4</item>
+        <item name="android:navigationBarColor">#a349a4</item>
+    </style>
+
+
+
+
+
+</resources>
